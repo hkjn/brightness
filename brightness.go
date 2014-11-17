@@ -7,7 +7,7 @@
 //   # mv dec_brightness /usr/bin/inc_intel_backlight
 //   # chown root:root /usr/bin/inc_intel_backlight
 //   # chmod 4755 /usr/bin/inc_intel_backlight
-package brightness
+package brightness // import "hkjn.me/brightness"
 
 import (
 	"io/ioutil"
