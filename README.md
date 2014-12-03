@@ -1,6 +1,6 @@
 brightness
 ==========
 
-Brightness is a library for adjusting intel_backlight light levels.
+Package brightness is a SysFS wrapper to adjusting intel_backlight light levels.
 
-See docs at http:///hkjn.me/brightness.
+See docs at http://hkjn.me/brightness.
